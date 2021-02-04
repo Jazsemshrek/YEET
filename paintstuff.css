@@ -1,5 +1,12 @@
 body {
-  background-color: lightblue;
+  background-color: red;
+}
+div {
+  background-color: black;
+  margin-left: 100px;
 }
 
+p.ex1 {
+  margin-left: inherit;
+}
 }
